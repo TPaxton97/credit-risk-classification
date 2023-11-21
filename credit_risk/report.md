@@ -1,5 +1,3 @@
-# Module 12 Report Template
-
 ## Overview of the Analysis
 
 The purpose of this analysis is to investigate the effectiveness of 2 models trained to predict the creditworthiness for borrowers. The dataset used to train and test the models is taken from a peer-to-peer lending company and includes the size of the loan, the interest rate, the borrower's income, the debt-to-income ratio, number of accounts held by the borrower, derogatory marks of the borrower, total debt of the borrower, and the loan status. 
