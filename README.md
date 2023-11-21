@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit Risk Classification
 See report document for analysis summary and results
 See credit_risk_classification document for full analysis
 
